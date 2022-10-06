@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-class CA:
+class ChineseAccounting:
     # 只支持到千亿
     def num2chi(self,digital):
         digital = float(digital)
